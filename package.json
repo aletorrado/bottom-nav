@@ -1,0 +1,27 @@
+{
+  "name": "bottom-nav",
+  "version": "3.0.0",
+  "description": "Bottom navigation for mobile that follows the [Material Design specification](https://material.io/guidelines/components/bottom-navigation.html).",
+  "main": "bottom-nav.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenyouse/bottom-nav.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenyouse/bottom-nav/issues"
+  },
+  "homepage": "https://github.com/greenyouse/bottom-nav#readme",
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.1",
+    "@polymer/iron-behaviors": "^3.0.1",
+    "@polymer/iron-menu-behavior": "^3.0.1",
+    "@polymer/iron-resizable-behavior": "^3.0.1",
+    "@polymer/polymer": "^3.0.5"
+  }
+}
